@@ -1,0 +1,7 @@
+E:\work\20180608\exportTool\exportTool\bin\Debug\exportTool.exe.config
+E:\work\20180608\exportTool\exportTool\bin\Debug\exportTool.exe
+E:\work\20180608\exportTool\exportTool\bin\Debug\exportTool.pdb
+E:\work\20180608\exportTool\exportTool\obj\Debug\exportTool.csprojResolveAssemblyReference.cache
+E:\work\20180608\exportTool\exportTool\obj\Debug\exportTool.csproj.CoreCompileInputs.cache
+E:\work\20180608\exportTool\exportTool\obj\Debug\exportTool.exe
+E:\work\20180608\exportTool\exportTool\obj\Debug\exportTool.pdb
